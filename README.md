@@ -1,4 +1,5 @@
 # What is Sabrehaven
+<!-- komentarz -->
 I wish you the best use of the Sabrehaven server and its features. Server is based on the Nostalrius fork which uses original cipsoft resources which were leaked- however I would say this is super expansion features wise than Nostalrius fork I have started with and there we have lots of old crash bugs fixed like aleta sio regex crash bug, creatures talk for no spectators crash bug fix and etc. All in all, I will try to make a little documentation for you. To start with, take a look at the Good reads for you about my and Sabrehaven life:
 - https://otland.net/threads/sabrehaven-7-8-project-discussion.267527/ [My journey started from this discussion thread]
 - https://otland.net/threads/sabrehaven-7-92-project-discussion.268469/ [After I hosted 7.8 server without great success I though why not to make it compatible with 7.92 and so I did]
